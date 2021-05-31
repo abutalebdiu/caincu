@@ -1,0 +1,115 @@
+@media only screen and (max-width:1199px) {
+    .search-input-box {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:992px) {
+    .search-input-box {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width:900px) {
+    .cart-left {
+        width: 100%;
+    }
+
+    .cart-right {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width:905px) {
+    .sort-div {
+        display: block;
+        margin-right: 0;
+    }
+
+    .dashboard-left {
+        display: none;
+    }
+
+    .ud-mobile {
+        display: block;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .hp-left span {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .hp-left span:last-child {
+        display: block;
+        margin-bottom: 0;
+    }
+
+    .hp-right {
+        padding: 13px 0;
+    }
+
+    .search-input-box {
+        width: 100%;
+    }
+    .mbtn a{
+        font-size: 13px;
+    text-transform: capitalize;
+    }
+    .mbtn a i{
+        display: none;
+    }
+    .search-medicine input{
+        padding: 5px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .login-box {
+        max-width: 450px;
+    }
+    .custom.accordion-body ul li a{
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 570px) {
+    body{
+        font-size: 14px;
+    }
+    .contect-main {
+        max-width: inherit;
+        margin-left: 0;
+    }
+
+    .cart-over .cart-over-num {
+        font-size: 12px;
+    }
+    .cart-over .cart-over-logo{
+        display: none;
+    }
+    .cart-over .cart-over-logo i {
+        font-size: 25px;
+    }
+
+    .cart-over .cart-over-blance {
+        font-size: 12px;
+    }
+    
+    
+    #button{
+        height: 30px;
+        width: 30px;
+        line-height: 3px;
+    }
+    #button::after{
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .category-left{
+        display: none;
+    }
+
+}
