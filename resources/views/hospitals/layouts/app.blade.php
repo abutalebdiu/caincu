@@ -124,10 +124,10 @@
                         <a href="javascript:;"> <b class="caret"></b> <i class="fa fa-users"></i> <span>Follow Up</span>
                         </a>
                         <ul class="sub-menu">
-                            <li><a href=""> Checkup<i class="fa fa-list text-theme"></i> </a></li>
-                            <li><a href=""> Test <i class="fa fa-list text-theme"></i> </a></li>
-                            <li><a href=""> Reported <i class="fa fa-list text-theme"></i> </a></li>
-                            <li><a href=""> Released <i class="fa fa-list text-theme"></i> </a></li>
+                            <li><a href=""> Bed<i class="fa fa-list text-theme"></i> </a></li>
+                            <li><a href=""> Medical <i class="fa fa-list text-theme"></i> </a></li>
+                           
+                            
                         </ul>
                     </li>
 
