@@ -125,20 +125,12 @@
                         <a href="javascript:;"> <b class="caret"></b> <i class="fa fa-users"></i> <span>Doctors</span>
                         </a>
                         <ul class="sub-menu">
-                            <li><a href=""> Doctors list <i class="fa fa-list text-theme"></i> </a></li>
-                            <li><a href=""> Add New Doctors <i class="fa fa-list text-theme"></i> </a></li>
+                            <li><a href=""> Package list <i class="fa fa-list text-theme"></i> </a></li>
+                            <li><a href=""> Add New Package <i class="fa fa-list text-theme"></i> </a></li>
                         </ul>
                     </li>
 
 
-					<li class="has-sub">
-                        <a href="javascript:;"> <b class="caret"></b> <i class="fa fa-users"></i> <span>Nurse</span>
-                        </a>
-                        <ul class="sub-menu">
-                            <li><a href=""> Nurse list <i class="fa fa-list text-theme"></i> </a></li>
-                            <li><a href=""> Add New Nurse <i class="fa fa-list text-theme"></i> </a></li>
-                        </ul>
-                    </li>
 
  
  
